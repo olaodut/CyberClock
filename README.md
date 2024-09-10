@@ -1,7 +1,7 @@
-# Ola-DesktopClock
+# Ola-CyberClock
 Clock for Desktop
 
-# Python Desktop Clock ⏰
+# Python Cyber Clock ⏰
 
 A simple and customizable desktop clock application built using Python and the `tkinter` library. The clock updates every second, displaying the current time in an easy-to-read format.
 
