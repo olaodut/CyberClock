@@ -46,4 +46,4 @@ You can easily customize the clock's appearance by modifying the `clock.py` file
 ### Change Font and Size:
 Update the `font` parameter in the `Label` widget:
 ```python
-label = tk.Label(root, font=('Helvetica', 50, '
+label = tk.Label(root, font=('pt serif', 50, '
