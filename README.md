@@ -1,16 +1,16 @@
 # Ola-CyberClock
 Clock for Desktop
 
-## Python Cyber Clock ⏰
+## Python Cyber Clock 
 
 A Python desktop clock application with a Matrix-style background effect, built using the `tkinter` library. The clock updates every second and displays the current time in an easy-to-read format. The application can run in fullscreen mode to simulate a desktop background.
 
 ## Features
-- 🕒 Displays the current time in `HH:MM:SS` format.
-- ⏱️ Automatically updates every second.
-- 🎨 Customizable fonts, colors, and window geometry.
-- 🌐 Matrix-style effect with falling numbers in the background.
-- 🖥️ Can run in fullscreen mode to simulate a desktop background.
+- Displays the current time in `HH:MM:SS` format.
+- Automatically updates every second.
+- Customizable fonts, colors, and window geometry.
+- Matrix-style effect with falling numbers in the background.
+- Can run in fullscreen mode to simulate a desktop background.
 
 ## Prerequisites
 
